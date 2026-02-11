@@ -36,9 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
 </a>
 
-<a href="https://nodejs.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-</a>
 
 ### Backend and Databases:
 <a href="https://www.sqlite.org/">
