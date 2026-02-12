@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Emilie Sengenbjerg!
 
-### A adjektiv web developer in Gothenburg, Sweden
+### A curious web developer in Gothenburg, Sweden
 
 - 🔭 I’m currently working studying web developement at Yrgo
   
