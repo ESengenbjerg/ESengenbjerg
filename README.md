@@ -2,13 +2,14 @@
 
 ### A curious web developer in Gothenburg, Sweden
 
-- 🔭 I’m currently working studying web developement at Yrgo
-  
-- 🌱 I’m currently learning Node, Laravel & C#
-- 👨‍💻 All of my projects are avaiable at https://www.developedbyemilie.se/
-- 📫 How to reach me: emilie_sengenbjerg@hotmail.com
-- 📄 My LinkedIn [https://www.linkedin.com/in/emilie-sengenbjerg/](https://www.linkedin.com/in/emilie-sengenbjerg-6a044717b/)
-- ⛷️ I LOVE skiing!
+- 🔭 Currently studying Web Development at Yrgo
+- 🌱 Currently learning Node.js, Laravel & C#
+- 👨‍💻 Portfolio: https://www.developedbyemilie.se/
+- 📫 Email: emilie_sengenbjerg@hotmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/emilie-sengenbjerg/](https://www.linkedin.com/in/emilie-sengenbjerg-6a044717b/)
+- 🎯 Seeking LIA (internship) in web development  
+
+I enjoy problem-solving and building user-friendly applications!
 
 
 ### Languages and Technologies:
@@ -54,5 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 </a>
 
+### 🧩 What you can expect from my projects
+- Clean and readable code  
+- Structured folder organization  
+- Focus on functionality and usability  
+- Continuous improvement as I learn
+  
 
-
+### Fun fact:
+- ⛷️ I LOVE skiing and being active!
